@@ -1,0 +1,29 @@
+{
+  "name": "mutantsmasterminds",
+  "title": "Mutants &amp; Masterminds 3e",
+  "description": "The Mutants &amp; Masterminds 3e system for FoundryVTT!",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.5.5",
+  "compatibleCoreVersion": "0.6.6",
+  "templateVersion": 2,
+  "author": "McKay Bonham",
+  "esmodules": ["module/mutantsmasterminds.js"],
+  "styles": ["css/mutantsmasterminds.css"],
+  "scripts": [],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "gridDistance": 5,
+  "gridUnits": "ft",
+  "primaryTokenAttribute": "health",
+  "secondaryTokenAttribute": "power",
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "license": "LICENSE.txt"
+}
