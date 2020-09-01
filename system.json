@@ -22,8 +22,8 @@
   "gridUnits": "ft",
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
-  "url": "",
+  "url": "https://github.com/MEBonham/mutantsmasterminds-for-foundryvtt",
   "manifest": "",
-  "download": "",
+  "download": "https://github.com/MEBonham/mutantsmasterminds-for-foundryvtt/archive/master.zip",
   "license": "LICENSE.txt"
 }
